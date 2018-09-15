@@ -1,0 +1,71 @@
+{
+  "id": "d67921fb-cc7e-4a5e-9339-9e6431fdb3b2",
+  "name": "food_ordering",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "food_ordering-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d180483d-c689-41b9-97f0-3e7680aabd91",
+          "required": false,
+          "dataType": "@all_items",
+          "name": "all_items",
+          "value": "$all_items",
+          "isList": false
+        },
+        {
+          "id": "444c1d1a-e45d-4fc8-a6d1-e5863cc539bf",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "6d79f5aa-0974-4762-ae1a-556bf907d8b2",
+          "required": false,
+          "dataType": "@add_ons",
+          "name": "add_ons",
+          "value": "$add_ons",
+          "isList": false
+        },
+        {
+          "id": "8448a119-9e7d-4bbd-9c3d-7d012beb1512",
+          "required": false,
+          "dataType": "@bagels",
+          "name": "bagels",
+          "value": "$bagels",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Would you like anything else?",
+            "Can I help you order anything else?",
+            "Anything else?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537025299,
+  "fallbackIntent": false,
+  "events": []
+}

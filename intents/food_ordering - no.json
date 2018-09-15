@@ -1,0 +1,33 @@
+{
+  "id": "37249e74-93ff-4d69-ab86-146e2a08a948",
+  "parentId": "d67921fb-cc7e-4a5e-9339-9e6431fdb3b2",
+  "rootParentId": "d67921fb-cc7e-4a5e-9339-9e6431fdb3b2",
+  "name": "food_ordering - no",
+  "auto": true,
+  "contexts": [
+    "food_ordering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "food_ordering.food_ordering-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great thanks! Your food will be available shortly."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537024125,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "1db3266f-4914-4d00-b3c1-92ad0a4fc315",
+    "data": [
+      {
+        "text": "I\u0027d like to order a ",
+        "userDefined": false
+      },
+      {
+        "text": "plain bagel",
+        "alias": "bagels",
+        "meta": "@bagels",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537025299
+  },
+  {
+    "id": "3ffc24b2-8d3a-479c-b8bc-1ada3cc4c22b",
+    "data": [
+      {
+        "text": "I need a ",
+        "userDefined": false
+      },
+      {
+        "text": "bacon wrap",
+        "alias": "all_items",
+        "meta": "@all_items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537023985
+  },
+  {
+    "id": "98c05fa1-1758-4382-9452-87f79e8f475b",
+    "data": [
+      {
+        "text": "Can I have ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "everything bagels",
+        "alias": "bagels",
+        "meta": "@bagels",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "jam",
+        "alias": "add_ons",
+        "meta": "@add_ons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537023985
+  },
+  {
+    "id": "2774798e-8df2-4201-af07-b7decd0ea597",
+    "data": [
+      {
+        "text": "Can I have ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bagels",
+        "alias": "all_items",
+        "meta": "@all_items",
+        "userDefined": true
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "cream cheese",
+        "alias": "add_ons",
+        "meta": "@add_ons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537023985
+  },
+  {
+    "id": "009445b9-3554-4ec7-8c57-10e0b92ce325",
+    "data": [
+      {
+        "text": "Can I have an ",
+        "userDefined": false
+      },
+      {
+        "text": "egg mcmuffin",
+        "alias": "all_items",
+        "meta": "@all_items",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537023985
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "id": "7f9891bc-2c33-4a07-af56-ebce0ea252cc",
+  "parentId": "d67921fb-cc7e-4a5e-9339-9e6431fdb3b2",
+  "rootParentId": "d67921fb-cc7e-4a5e-9339-9e6431fdb3b2",
+  "name": "food_ordering - fallback",
+  "auto": false,
+  "contexts": [
+    "food_ordering-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "food_ordering.food_ordering-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189124811,
+  "fallbackIntent": true,
+  "events": []
+}

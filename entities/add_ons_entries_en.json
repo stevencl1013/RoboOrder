@@ -1,0 +1,45 @@
+[
+  {
+    "value": "butter",
+    "synonyms": [
+      "butter"
+    ]
+  },
+  {
+    "value": "cream cheese",
+    "synonyms": [
+      "cream cheese"
+    ]
+  },
+  {
+    "value": "jam",
+    "synonyms": [
+      "jam"
+    ]
+  },
+  {
+    "value": "honey",
+    "synonyms": [
+      "honey"
+    ]
+  },
+  {
+    "value": "mustard",
+    "synonyms": [
+      "mustard"
+    ]
+  },
+  {
+    "value": "ketchup",
+    "synonyms": [
+      "ketchup"
+    ]
+  },
+  {
+    "value": "bbq sauce",
+    "synonyms": [
+      "bbq sauce",
+      "barbecue sauce"
+    ]
+  }
+]

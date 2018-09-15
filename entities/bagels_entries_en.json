@@ -1,0 +1,36 @@
+[
+  {
+    "value": "Plain bagel",
+    "synonyms": [
+      "Plain bagel",
+      "Normal Bagel"
+    ]
+  },
+  {
+    "value": "Multigrain Bagel",
+    "synonyms": [
+      "Multigrain Bagel"
+    ]
+  },
+  {
+    "value": "Cinnamon \u0026 Raisin Bagel",
+    "synonyms": [
+      "Cinnamon \u0026 Raisin Bagel",
+      "Cinnamon Bagel",
+      "Raisin Bagel"
+    ]
+  },
+  {
+    "value": "Everything Bagel",
+    "synonyms": [
+      "Everything Bagel",
+      "Bagel with everything"
+    ]
+  },
+  {
+    "value": "Sesame Bagel",
+    "synonyms": [
+      "Sesame Bagel"
+    ]
+  }
+]
