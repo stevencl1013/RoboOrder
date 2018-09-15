@@ -21,7 +21,7 @@ app.intent('food_ordering', (conv, {input}) => {
 	var words = input.toUpperCase().split(" ");
 	var ourMenu = [HAMBURGER. CHEESEBURGER, FRIES]; // to be changed later
 	var customOrder = commonArray(words, ourMenu);
-	console.log(customOrder);
+	conv.close(customOrder);
 })
 
 function commonArray(arr1, arr2) {
