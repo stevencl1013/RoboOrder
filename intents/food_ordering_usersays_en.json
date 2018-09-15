@@ -1,5 +1,41 @@
 [
   {
+    "id": "8231af0e-5950-425d-9421-19e2af9da19d",
+    "data": [
+      {
+        "text": "Sesame",
+        "alias": "bagels",
+        "meta": "@bagels",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537033165
+  },
+  {
+    "id": "4539f188-5b4b-4744-8106-7ca725afd064",
+    "data": [
+      {
+        "text": "Sesame bagel",
+        "alias": "bagels",
+        "meta": "@bagels",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537033165
+  },
+  {
     "id": "1db3266f-4914-4d00-b3c1-92ad0a4fc315",
     "data": [
       {

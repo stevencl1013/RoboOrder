@@ -32,5 +32,23 @@
     "synonyms": [
       "Sesame Bagel"
     ]
+  },
+  {
+    "value": "Everything",
+    "synonyms": [
+      "Everything"
+    ]
+  },
+  {
+    "value": "Plain",
+    "synonyms": [
+      "Plain"
+    ]
+  },
+  {
+    "value": "Sesame",
+    "synonyms": [
+      "Sesame"
+    ]
   }
 ]

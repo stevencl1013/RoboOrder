@@ -1,0 +1,44 @@
+{
+  "id": "c84ebecd-cdc5-4674-b65b-d0f2977d3ab2",
+  "name": "wrap-unknown",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7f7d20cb-e312-45c0-852c-ff281f4dc3bd",
+          "required": true,
+          "dataType": "@Blacklist-wraps",
+          "name": "Blacklist-wraps",
+          "value": "$Blacklist-wraps",
+          "isList": false
+        },
+        {
+          "id": "485dd891-f4d2-4ad6-8e95-9fc9401cfe49",
+          "dataType": "@all_items",
+          "name": "all_items",
+          "value": "$all_items",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We have many types of wraps available. Which wrap would you like?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537034091,
+  "fallbackIntent": false,
+  "events": []
+}

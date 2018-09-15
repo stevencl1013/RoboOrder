@@ -1,0 +1,47 @@
+{
+  "id": "347ed371-4b11-4f18-b2fc-faf52471c58c",
+  "name": "bagel-flavor-unknown",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2022de27-d7b3-400f-ab33-ad40a7b701c5",
+          "required": true,
+          "dataType": "@Blacklist",
+          "name": "Blacklist",
+          "value": "$Blacklist",
+          "isList": false
+        },
+        {
+          "id": "5a1a6fd7-0018-4fc2-b3c5-f9e5c85da0c5",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "There are multiple sorts of bagels available. What kind of bagel would you like?",
+            "We have several types of bagels available. What kind of bagel would you like?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537032962,
+  "fallbackIntent": false,
+  "events": []
+}

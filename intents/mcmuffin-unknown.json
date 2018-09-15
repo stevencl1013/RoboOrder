@@ -1,0 +1,51 @@
+{
+  "id": "0f0423d5-12e6-4c27-a541-26c90f094f9a",
+  "name": "mcmuffin-unknown",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "41307c1f-8b2c-4485-ba11-27e3cebfdc5e",
+          "required": true,
+          "dataType": "@Blacklist-mcmuffin",
+          "name": "Blacklist-mcmuffin",
+          "value": "$Blacklist-mcmuffin",
+          "isList": false
+        },
+        {
+          "id": "46d0c17b-3310-4285-8b47-2aae576d6753",
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "isList": false
+        },
+        {
+          "id": "3a21168f-9057-4110-a35a-c10ff5e5f394",
+          "dataType": "@Blacklist",
+          "name": "Blacklist",
+          "value": "$Blacklist",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "We have multiple varieties of McMuffins. Which one would you prefer?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1537034015,
+  "fallbackIntent": false,
+  "events": []
+}

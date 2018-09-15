@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ea1a7e2c-8bb4-4ddc-8857-ef1af1e87d5c",
+    "data": [
+      {
+        "text": "Two",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bagels",
+        "alias": "Blacklist",
+        "meta": "@Blacklist",
+        "userDefined": false
+      },
+      {
+        "text": " and a ",
+        "userDefined": false
+      },
+      {
+        "text": "mcmuffin",
+        "alias": "Blacklist-mcmuffin",
+        "meta": "@Blacklist-mcmuffin",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537034015
+  },
+  {
+    "id": "81d0ab85-ec0c-4b43-96d2-eafc4e981487",
+    "data": [
+      {
+        "text": "mcmuffins",
+        "alias": "Blacklist-mcmuffin",
+        "meta": "@Blacklist-mcmuffin",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537033741
+  },
+  {
+    "id": "51508b58-5659-46e1-a3cf-3bc20828d3c7",
+    "data": [
+      {
+        "text": "muffins",
+        "alias": "Blacklist-mcmuffin",
+        "meta": "@Blacklist-mcmuffin",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537033741
+  },
+  {
+    "id": "3b395d64-f53c-489b-89c0-7960293d6792",
+    "data": [
+      {
+        "text": "can i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "muffin",
+        "alias": "Blacklist-mcmuffin",
+        "meta": "@Blacklist-mcmuffin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537033741
+  },
+  {
+    "id": "82118b4f-0df2-49f9-b6f4-90459522ad6e",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "mcmuffin",
+        "alias": "Blacklist-mcmuffin",
+        "meta": "@Blacklist-mcmuffin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537033687
+  },
+  {
+    "id": "09801cff-51be-4ec3-b91b-53438eca0a67",
+    "data": [
+      {
+        "text": "Can I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "mcmuffin",
+        "alias": "Blacklist-mcmuffin",
+        "meta": "@Blacklist-mcmuffin",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537033687
+  },
+  {
+    "id": "abd2c2aa-a604-47d8-9775-9448ed050d85",
+    "data": [
+      {
+        "text": "Mcmuffin",
+        "alias": "Blacklist-mcmuffin",
+        "meta": "@Blacklist-mcmuffin",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537033687
+  }
+]

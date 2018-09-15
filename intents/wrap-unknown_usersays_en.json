@@ -1,0 +1,88 @@
+[
+  {
+    "id": "c19602cf-f56a-41ba-91b0-cb2e0fda56c3",
+    "data": [
+      {
+        "text": "Can I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "wrap",
+        "alias": "Blacklist-wraps",
+        "meta": "@Blacklist-wraps",
+        "userDefined": false
+      },
+      {
+        "text": " and a ",
+        "userDefined": false
+      },
+      {
+        "text": "bacon mcmuffin",
+        "alias": "all_items",
+        "meta": "@all_items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537034091
+  },
+  {
+    "id": "a96d9c42-1172-49a6-8165-a894a36f4636",
+    "data": [
+      {
+        "text": "Can I please have a ",
+        "userDefined": false
+      },
+      {
+        "text": "wrap",
+        "alias": "Blacklist-wraps",
+        "meta": "@Blacklist-wraps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537033804
+  },
+  {
+    "id": "cd939c6a-e1fe-4d55-bd96-018027b814ad",
+    "data": [
+      {
+        "text": "A ",
+        "userDefined": false
+      },
+      {
+        "text": "wrap",
+        "alias": "Blacklist-wraps",
+        "meta": "@Blacklist-wraps",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537033804
+  },
+  {
+    "id": "d4c06130-502d-432b-a95b-0b71173fcf01",
+    "data": [
+      {
+        "text": "Can I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "wrap",
+        "alias": "Blacklist-wraps",
+        "meta": "@Blacklist-wraps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537033804
+  }
+]

@@ -26,7 +26,11 @@
   },
   "defaultTimezone": "America/Barbados",
   "webhook": {
-    "available": false,
+    "url": "https://us-central1-robo-order.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "headers": {
+      "": ""
+    },
+    "available": true,
     "useForDomains": false,
     "cloudFunctionsEnabled": false,
     "cloudFunctionsInitialized": true

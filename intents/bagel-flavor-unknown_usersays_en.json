@@ -1,0 +1,70 @@
+[
+  {
+    "id": "bb30058c-2b1a-46c2-8c02-08c2702e170b",
+    "data": [
+      {
+        "text": "Can I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "bagel",
+        "alias": "Blacklist",
+        "meta": "@Blacklist",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537032962
+  },
+  {
+    "id": "2769d64a-54ba-40a4-833e-f1023175567f",
+    "data": [
+      {
+        "text": "Two",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bagels",
+        "alias": "Blacklist",
+        "meta": "@Blacklist",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1537032962
+  },
+  {
+    "id": "20e8cb9f-9c04-4380-8ee3-b0ddf580b4dd",
+    "data": [
+      {
+        "text": "I would really like a ",
+        "userDefined": false
+      },
+      {
+        "text": "bagel",
+        "alias": "Blacklist",
+        "meta": "@Blacklist",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1537032962
+  }
+]
