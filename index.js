@@ -19,7 +19,7 @@ const app = dialogflow({debug: true});
 
 app.intent('food_ordering', (conv, {input}) => {
 	var words = input.toUpperCase().split(" ");
-	var ourMenu = [];
+	var ourMenu = [HAMBURGER. CHEESEBURGER, FRIES]; // to be changed later
 	var customOrder = commonArray(words, ourMenu);
 	console.log(customOrder);
 })
